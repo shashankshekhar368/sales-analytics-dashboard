@@ -2,7 +2,7 @@
 
 An interactive sales analytics dashboard built with Python and Streamlit. It turns raw sales data into KPIs, charts and auto-generated business insights, with filters for date, region and category.
 
-🔗 **Live demo:** (deploy hone ke baad Streamlit link yahan paste karo)
+🔗 **Live demo:** https://sales-analytics-dashboard-lj5wxmjvpcivfke6tp5yfj.streamlit.app/
 
 ## Features
 
